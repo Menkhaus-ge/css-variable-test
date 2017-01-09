@@ -1,0 +1,24 @@
+{
+  "name": "px-calendar-picker",
+  "version": "0.6.2",
+  "main": [
+    "px-calendar-picker.html"
+  ],
+  "ignore": [
+    ".*",
+    "npm-debug.log",
+    "gulpfile.js",
+    "sass",
+    "bower_components",
+    "node_modules",
+    "test",
+    "OSS_Notice.pdf",
+    ".github",
+    "scripts",
+    "px-calendar-picker.png"
+  ],
+  "dependencies": {
+    "polymer": "^1.6.1",
+    "iron-doc-viewer": "PolymerElements/iron-doc-viewer#^1.0.16"
+  }
+}
